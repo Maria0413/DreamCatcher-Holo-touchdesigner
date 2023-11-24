@@ -36,4 +36,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ![image1](https://github.com/Maria0413/DreamCatcher-Holo-touchdesigner/blob/main/video/image1.png)
 ![image2](https://github.com/Maria0413/DreamCatcher-Holo-touchdesigner/blob/main/video/image2.jpg)
 ![image3](https://github.com/Maria0413/DreamCatcher-Holo-touchdesigner/blob/main/video/image3.jpg)
-![image4](https://github.com/Maria0413/DreamCatcher-Holo-touchdesigner/blob/main/video/image4.jpg)
+![image4](https://github.com/Maria0413/DreamCatcher-Holo-touchdesigner/blob/main/video/image4.png)
